@@ -1,7 +1,7 @@
 # Discord.py Cogs Template
 A simple cogs template for discord.py 🐍! ( Supports text commands only )
 
-How to host?
+### How to host?
 
 Self-host:
 - Configure your bot using the config.py file
