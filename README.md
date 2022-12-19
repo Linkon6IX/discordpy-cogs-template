@@ -2,13 +2,12 @@
 A simple cogs template for discord.py 🐍! ( Supports text commands only )
 
 ### How to host?
-
-Self-host:
 - Configure your bot using the config.py file
 - Open Command prompt on the folder, where your bot is located
 - Type "python main.py" on the command prompt and hit enter
 - Done!
 
-Replit:
-- Fork the replit
-- [![Replit (https://blog.replit.com/images/new_logo/logotype.png)]]
+### If you have any question or if you face any error feel free to DM me on discord! 
+My Discord: Linkon#7868
+
+### ⭐ Star this repository to support me!!
