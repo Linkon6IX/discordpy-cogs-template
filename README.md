@@ -8,7 +8,7 @@ A simple cogs template for discord.py 🐍! ( Supports text commands only )
 - Done!
 
 ### If you have any question or if you face any error feel free to DM me on discord! 
-My Discord: Linkon#7868
+My Discord: Linkon#7868, Discord Server: https://discord.gg/HHR5nnZzhR
 
 ### Info
  - To add more commands, create a file in the cogs folder and then code your command
