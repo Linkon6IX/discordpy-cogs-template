@@ -10,4 +10,9 @@ A simple cogs template for discord.py 🐍! ( Supports text commands only )
 ### If you have any question or if you face any error feel free to DM me on discord! 
 My Discord: Linkon#7868
 
+### Info
+ - To add more commands, create a file in the cogs folder and then code your command
+ - A simple ping command has been given as a example
+ - Try using discord.py 2.0 if the bot don't works for you
+
 ### ⭐ Star this repository to support me!!
